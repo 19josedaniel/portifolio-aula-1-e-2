@@ -1,9 +1,10 @@
-*{
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
-.cabecalho{
+.cabecalho {
     padding: 15px 25px;
     display: flex;
     justify-content: space-between;
@@ -15,6 +16,7 @@
     height: 260px;
 }
 
-.carta-imagem {
+/* Nome da classe corrigido para .cartao-imagem */
+.cartao-imagem {
     width: 100%;
 }
